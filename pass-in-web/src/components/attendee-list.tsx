@@ -2,7 +2,7 @@ import { Search,MoreHorizontal, ChevronsLeft, ChevronLeft, ChevronRight, Chevron
 import { IconButton } from "./icon-button";
 import { Table } from "./table/table";
 import { TableHeader } from "./table/table-header";
-import { TableCell } from "./table/talbe-cell";
+import { TableCell } from "./table/table-cell";
 import { TableRow } from "./table/table-row";
 export function AttendeeList() {
   return (
